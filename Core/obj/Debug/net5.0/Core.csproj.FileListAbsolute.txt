@@ -1,0 +1,12 @@
+C:\Users\gnatroshvili\Desktop\ECommerce Website\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\gnatroshvili\Desktop\ECommerce Website\Core\bin\Debug\net5.0\Core.dll
+C:\Users\gnatroshvili\Desktop\ECommerce Website\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\gnatroshvili\Desktop\ECommerce Website\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\gnatroshvili\Desktop\ECommerce Website\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\gnatroshvili\Desktop\ECommerce Website\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnatroshvili\Desktop\ECommerce Website\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\gnatroshvili\Desktop\ECommerce Website\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\gnatroshvili\Desktop\ECommerce Website\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\gnatroshvili\Desktop\ECommerce Website\Core\obj\Debug\net5.0\Core.dll
+C:\Users\gnatroshvili\Desktop\ECommerce Website\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\gnatroshvili\Desktop\ECommerce Website\Core\obj\Debug\net5.0\Core.pdb
